@@ -3,6 +3,12 @@
 > **Modern Decentralized Sales Marketplace.**  
 > A premium, on-chain platform for businesses to create high-conversion sales campaigns with automated rewards, trustless meeting verification, and real-time yield simulation.
 
+Demo:
+https://www.loom.com/share/8e28b7695c3949bd9f89e895fc710d0d
+
+Pitch:
+https://www.loom.com/share/34c7a04a41c34af0af7e79a21137acdd
+
 ---
 
 ## ✨ Features
